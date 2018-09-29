@@ -16,4 +16,5 @@ __./java Euclids 20 4__
 
 ## Sample Output
 The GCD of 20 and 4 is 4
+
 Calculated in 1 iterations
